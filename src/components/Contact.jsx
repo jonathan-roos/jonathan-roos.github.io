@@ -31,8 +31,8 @@ function Contact() {
                         className="p-2 mb-4 bg-transparent border-2 rounded-md focus:outline-none"
                     />
                     <button
-                        type="button"    
-                        className="text-center inline-block px-8 py-3 text-base font-medium rounded-md text-white bg-gradient-to-r from-yellow-500 to-pink-500 drop-shadow-md"
+                        type="submit"    
+                        className="text-center inline-block px-8 py-3 text-base font-medium rounded-md text-white bg-gradient-to-r from-yellow-500 to-pink-500 dark:from-pink-500 dark:to-teal-900 drop-shadow-md"
                     >
                         Contact Me
                     </button>
