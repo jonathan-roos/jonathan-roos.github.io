@@ -3,8 +3,8 @@ export default [
         title: 'Project Flying Fox',
         imgUrl: "/assets/pff.jpg",
         stack: ['PYTHON', 'FAST AI', 'DEEP LEARNING'],
-        link: 'portfolio/public/assets/Placement Deliverables.pdf',
-        description: 'Over 12 weeks, I developed a prototype computer vision software used to detect flying foxes in aerial thermal images. A combination of machine deep learning, convolutional neural networks and Python computer vision libraries were used.',
+        link: '/assets/Placement Deliverables.pdf',
+        description: 'Over a 12 week placement, I developed a prototype computer vision software used to detect flying foxes in aerial thermal images. A combination of machine deep learning, convolutional neural networks and Python computer vision libraries were used.',
     },
     {
         title: 'Asteroid Defence',
