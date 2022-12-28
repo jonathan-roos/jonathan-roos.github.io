@@ -22,7 +22,7 @@ function PortfolioItem({title, imgUrl, stack, link, description}) {
                 )}
                 {/* Will show this when mouse is on the portfolio item */}
                 {isShown && (
-                    <div className="w-full h-36 md:h-48 object-cover cursor-pointer py-3 px-3 text-justify bg-stone-900 ease-in duration-300">
+                    <div className="w-full h-36 md:h-48 object-cover cursor-pointer py-3 px-3 text-justify bg-stone-900 text-white dark:bg-white dark:text-stone-900 overflow-scroll font-semibold">
                         {description}   
                     </div>     
                 )}
