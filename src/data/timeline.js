@@ -25,7 +25,7 @@ export default [
     },
     {
         year: '2017',
-        title: 'Gradauted High School',
+        title: 'Graduated High School',
         duration: '4 Years',
         details: 'I graduated from Trinity College in 2017. During my final year of high school I participated in various activities and societies including; peer support mentor, fundraising committtee and class captain.',
     },
