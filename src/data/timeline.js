@@ -1,32 +1,38 @@
 export default [
     {
-        year: 'Current',
-        title: 'Student',
+        year: '2023',
+        title: 'Completed Bachelor of Business and Bachelor of IT (Software Development)',
         duration: '2019 - 2023',
-        details: 'I am currently in my final year of studying for my Bachelor of Business and Bachelor of Information Technology majoring in Software Development.',
+        details: 'I have recently graduated with a Bachelor of Business and a Bachelor of Information Technology, majoring in Software Development. My academic journey has equipped me with a strong foundation in business and IT, enhancing my skills and knowledge in software development.'
     },
     {
-        year: 'Current',
+        year: 'Feb 2023 - Present',
+        title: 'ECM Administrator (Part-time)',
+        duration: 'Ongoing',
+        details: 'Since February 2023, I have been working as an ECM Administrator in a part-time capacity. This role involves managing and administering Enterprise Content Management systems. I contribute to the efficient operation of the Information Services team at my organization, enhancing productivity and business processes.'
+    },
+    {
+        year: 'Nov 2022 - Jan 2023',
         title: 'Intern - ECM Administrator',
         duration: '3 months',
-        details: 'In November 2022, I joined the Information Services team at APA located at the Brisbane office. In this role I assisted in creating new, and modifying exisiting apps used internally by the business. This was done using the Microsoft PowerApps Suite.',
+        details: 'From November 2022 to January 2023, I served as an Intern ECM Administrator at APA in their Brisbane office. During this internship, I actively contributed to the development and modification of internal applications using the Microsoft PowerApps Suite, gaining valuable practical experience in enterprise-level IT solutions.'
     },
     {
-        year: 'May - Nov 2022',
+        year: 'May 2022 - Nov 2022',
         title: 'Helpdesk Administrator',
         duration: '7 months',
-        details: 'While undertaking my studies, I was fortunte enough to enter into my first professional IT role. Some jobs and responsibilities included; answering phone calls and logging service tickets on behalf of clients, travelling to client sites to assist with IT infrustructure configuration, and basic system administrator duties.',
+        details: 'From May 2022 to November 2022, I held the position of Helpdesk Administrator while simultaneously pursuing my academic studies. In this role, I provided exceptional customer support by managing service tickets, configuring IT infrastructure at client sites, and performing essential system administration tasks.'
     },
     {
         year: '2020 - 2022',
         title: 'Barista',
         duration: '2 Years',
-        details: 'During the course of my degree I have held multiple hospitality roles as a barista. I love making coffees and working in hospitality has taught me many valuable interpersonal skills that I have been able to transfer into my roles in IT.',
+        details: 'Throughout my academic journey, I gained hands-on experience as a Barista, a role that allowed me to refine my interpersonal skills. Serving as a Barista for two years, I not only enjoyed crafting quality coffees but also developed excellent customer service and teamwork abilities, which I have successfully transferred to my IT roles.'
     },
     {
         year: '2017',
-        title: 'Graduated High School',
+        title: 'High School Graduation',
         duration: '4 Years',
-        details: 'I graduated from Trinity College in 2017. During my final year of high school I participated in various activities and societies including; peer support mentor, fundraising committtee and class captain.',
+        details: 'In 2017, I proudly graduated from Trinity College. During my final year of high school, I actively participated in various extracurricular activities and societies, including serving as a peer support mentor, contributing to fundraising committees, and fulfilling the role of class captain, demonstrating my leadership and commitment to personal development.'
     },
 ]
