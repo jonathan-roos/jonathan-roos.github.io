@@ -1,7 +1,7 @@
 export default [
     {
-        year: '2023',
-        title: 'Completed Bachelor of Business and Bachelor of IT (Software Development)',
+        year: 'Oct 2023',
+        title: 'Graduated University',
         duration: '2019 - 2023',
         details: 'I have recently graduated with a Bachelor of Business and a Bachelor of Information Technology, majoring in Software Development. My academic journey has equipped me with a strong foundation in business and IT, enhancing my skills and knowledge in software development.'
     },
