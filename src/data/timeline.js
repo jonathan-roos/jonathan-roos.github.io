@@ -1,21 +1,21 @@
 export default [
     {
+        year: "Mar 2024",
+        title: "Technology Graduate",
+        duration: "Current",
+        details: "In March 2024, I started a full-time graduate position at APA, working in the Infrastructure Service Operations team. In this role, I am responsible for supporting and optimising IT infrastructure services, ensuring high availability and performance of critical systems, and collaborating with cross-functional teams to implement new technologies and solutions. This experience has allowed me to apply my skills in system administration, automation, and data analysis."
+    },
+    {
         year: 'Oct 2023',
         title: 'Graduated University',
         duration: '2019 - 2023',
         details: 'I have recently graduated with a Bachelor of Business and a Bachelor of Information Technology, majoring in Software Development. My academic journey has equipped me with a strong foundation in business and IT, enhancing my skills and knowledge in software development.'
     },
     {
-        year: 'Feb 2023 - Present',
-        title: 'ECM Administrator (Part-time)',
+        year: 'Nov 2022 - Mar 2024',
+        title: 'ECM Administrator (Intern to Part-time)',
         duration: 'Ongoing',
-        details: 'Since February 2023, I have been working as an ECM Administrator in a part-time capacity. This role involves managing and administering Enterprise Content Management systems. I contribute to the efficient operation of the Information Services team at my organization, enhancing productivity and business processes.'
-    },
-    {
-        year: 'Nov 2022 - Jan 2023',
-        title: 'Intern - ECM Administrator',
-        duration: '3 months',
-        details: 'From November 2022 to January 2023, I served as an Intern ECM Administrator at APA in their Brisbane office. During this internship, I actively contributed to the development and modification of internal applications using the Microsoft PowerApps Suite, gaining valuable practical experience in enterprise-level IT solutions.'
+        details: 'I began my journey as an Intern ECM Administrator at APA in November 2022, where I contributed to the development and modification of internal applications using the Microsoft PowerApps Suite. In February 2023, I transitioned to a part-time ECM Administrator role, managing and administering Enterprise Content Management systems. In this role, I enhanced the productivity and business processes of the Information Services team at my organisation.'
     },
     {
         year: 'May 2022 - Nov 2022',
